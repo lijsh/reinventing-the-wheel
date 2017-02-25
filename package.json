@@ -1,0 +1,20 @@
+{
+  "name": "reinventing-the-wheel",
+  "version": "1.0.0",
+  "description": "Reinventing the wheel of JavaScript ecosystem. one file per wheel, no deep shit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijsh/reinventing-the-wheel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijsh/reinventing-the-wheel/issues"
+  },
+  "homepage": "https://github.com/lijsh/reinventing-the-wheel#readme"
+}
