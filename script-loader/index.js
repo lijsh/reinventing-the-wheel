@@ -1,3 +1,5 @@
+// have bugs
+
 const module = {}
 const head = document.getElementsByTagName('head')[0]
 const base = '.'
